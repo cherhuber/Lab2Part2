@@ -6,7 +6,8 @@
 
 /**
  *
- * @author cheryl
+ * @author Cheryl Huber & Alex Barrick
+ * Comp 350 MW Spring 2015
  */
 public class MyCalculator extends javax.swing.JFrame {
 

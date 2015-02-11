@@ -15,6 +15,7 @@ import java.awt.event.ActionListener;
 /**
  *
  * @author cherylann.huber329
+ * Cheryl Huber & Alexander Barrick
  */
 public class Dec2Bin extends JFrame implements ActionListener{
     //public static final int WIDTH = 300;

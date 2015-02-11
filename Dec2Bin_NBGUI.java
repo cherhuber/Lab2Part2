@@ -11,6 +11,7 @@ import java.awt.event.ActionListener;
 /**
  *
  * @author cheryl
+ * Cheryl Huber & Alexander Barrick
  */
 public class Dec2Bin_NBGUI extends javax.swing.JFrame {
 
